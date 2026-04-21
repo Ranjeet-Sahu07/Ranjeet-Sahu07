@@ -63,65 +63,61 @@ const developer = {
 
 ## 💻 Tech Stack
 
-### 🖥️ Languages
-![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4)
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=00599C)
-![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
-![C#](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=239120)
-![Kotlin](https://img.shields.io/badge/Kotlin-0D1117?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
-![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
+**Languages:**  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### ⚡ Frontend
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=02569B)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=8511FA)
-![Chart.js](https://img.shields.io/badge/Chart.js-0D1117?style=for-the-badge&logo=chart.js&logoColor=F5788D)
-![React Router](https://img.shields.io/badge/React_Router-0D1117?style=for-the-badge&logo=react-router&logoColor=CA4245)
-![React Hook Form](https://img.shields.io/badge/React_Hook_Form-0D1117?style=for-the-badge&logo=reacthookform&logoColor=EC5990)
-![React Query](https://img.shields.io/badge/React_Query-0D1117?style=for-the-badge&logo=reactquery&logoColor=FF4154)
+**Frontend:**  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-F5788D?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
+![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 
-### 🛠️ Backend
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-0D1117?style=for-the-badge&logo=springboot&logoColor=6DB33F)
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=339933)
-![Express.js](https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688)
-![Flask](https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=dotnet&logoColor=5C2D91)
-![Socket.io](https://img.shields.io/badge/Socket.io-0D1117?style=for-the-badge&logo=socket.io&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-0D1117?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-0D1117?style=for-the-badge&logo=apache&logoColor=D42029)
+**Backend:**  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white)
 
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![SQLite](https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=07405E)
-![Oracle](https://img.shields.io/badge/Oracle_DB-0D1117?style=for-the-badge&logo=oracle&logoColor=F80000)
+**Databases:**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Oracle DB](https://img.shields.io/badge/Oracle%20DB-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-0D1117?style=for-the-badge&logo=cloudflare&logoColor=F38020)
-![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux_(Parrot_OS)-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Bun](https://img.shields.io/badge/Bun-0D1117?style=for-the-badge&logo=bun&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-0D1117?style=for-the-badge&logo=npm&logoColor=CB3837)
+**Cloud & DevOps:**  
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ranjeet-Sahu07&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ffe5&icon_color=00b4ff&text_color=b8d4e8&ring_color=00ffe5&count_private=true&include_all_commits=true" />
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranjeet-Sahu07&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ffe5&text_color=b8d4e8&langs_count=10" />
+![](https://github-readme-stats.shion.dev/api?username=Ranjeet-Sahu07&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false)<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranjeet-Sahu07&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ffe5&text_color=b8d4e8&langs_count=10" />
 
 </div>
 
@@ -131,10 +127,93 @@ const developer = {
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements & Badges
+
+<!-- Achievements Section -->
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="140">
+        <div style="background: linear-gradient(135deg, #FF6B6B 0%, #FF8A8A 100%); border-radius: 15px; padding: 20px; box-shadow: 0 10px 30px rgba(255,107,107,0.3);">
+          <h3 style="font-size: 2rem; margin: 0;">⭐</h3>
+          <h3 style="font-size: 1.8rem; margin: 5px 0; color: white;">50+</h3>
+          <p style="margin: 5px 0; color: white; font-weight: bold;">Projects</p>
+          <p style="margin: 0; font-size: 0.8rem; color: rgba(255,255,255,0.9);">Built & Shipped</p>
+        </div>
+      </td>
+      <td align="center" width="140">
+        <div style="background: linear-gradient(135deg, #4ECDC4 0%, #95E1D3 100%); border-radius: 15px; padding: 20px; box-shadow: 0 10px 30px rgba(78,205,196,0.3);">
+          <h3 style="font-size: 2rem; margin: 0;">💻</h3>
+          <h3 style="font-size: 1.8rem; margin: 5px 0; color: white;">10+</h3>
+          <p style="margin: 5px 0; color: white; font-weight: bold;">Languages</p>
+          <p style="margin: 0; font-size: 0.8rem; color: rgba(255,255,255,0.9);">Proficient</p>
+        </div>
+      </td>
+      <td align="center" width="140">
+        <div style="background: linear-gradient(135deg, #FFE66D 0%, #FFF59D 100%); border-radius: 15px; padding: 20px; box-shadow: 0 10px 30px rgba(255,230,109,0.3);">
+          <h3 style="font-size: 2rem; margin: 0;">🔥</h3>
+          <h3 style="font-size: 1.8rem; margin: 5px 0; color: #333;">100+</h3>
+          <p style="margin: 5px 0; color: #333; font-weight: bold;">Commits</p>
+          <p style="margin: 0; font-size: 0.8rem; color: rgba(0,0,0,0.7);">Code Quality</p>
+        </div>
+      </td>
+      <td align="center" width="140">
+        <div style="background: linear-gradient(135deg, #95E1D3 0%, #A8E6CF 100%); border-radius: 15px; padding: 20px; box-shadow: 0 10px 30px rgba(149,225,211,0.3);">
+          <h3 style="font-size: 2rem; margin: 0;">🚀</h3>
+          <h3 style="font-size: 1.8rem; margin: 5px 0; color: white;">20+</h3>
+          <p style="margin: 5px 0; color: white; font-weight: bold;">Deployments</p>
+          <p style="margin: 0; font-size: 0.8rem; color: rgba(255,255,255,0.9);">Production</p>
+        </div>
+      </td>
+      <td align="center" width="140">
+        <div style="background: linear-gradient(135deg, #C7B3E5 0%, #E0BBE4 100%); border-radius: 15px; padding: 20px; box-shadow: 0 10px 30px rgba(199,179,229,0.3);">
+          <h3 style="font-size: 2rem; margin: 0;">🎯</h3>
+          <h3 style="font-size: 1.8rem; margin: 5px 0; color: white;">95%</h3>
+          <p style="margin: 5px 0; color: white; font-weight: bold;">Success</p>
+          <p style="margin: 0; font-size: 0.8rem; color: rgba(255,255,255,0.9);">Rate</p>
+        </div>
+      </td>
+      <td align="center" width="140">
+        <div style="background: linear-gradient(135deg, #FF8A8A 0%, #FF6B9D 100%); border-radius: 15px; padding: 20px; box-shadow: 0 10px 30px rgba(255,138,138,0.3);">
+          <h3 style="font-size: 2rem; margin: 0;">💡</h3>
+          <h3 style="font-size: 1.8rem; margin: 5px 0; color: white;">30+</h3>
+          <p style="margin: 5px 0; color: white; font-weight: bold;">Ideas</p>
+          <p style="margin: 0; font-size: 0.8rem; color: rgba(255,255,255,0.9);">Implemented</p>
+        </div>
+      </td>
+      <td align="center" width="140">
+        <div style="background: linear-gradient(135deg, #A8E6CF 0%, #DCEDC1 100%); border-radius: 15px; padding: 20px; box-shadow: 0 10px 30px rgba(168,230,207,0.3);">
+          <h3 style="font-size: 2rem; margin: 0;">👥</h3>
+          <h3 style="font-size: 1.8rem; margin: 5px 0; color: white;">500+</h3>
+          <p style="margin: 5px 0; color: white; font-weight: bold;">Followers</p>
+          <p style="margin: 0; font-size: 0.8rem; color: rgba(255,255,255,0.9);">Community</p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 📊 Stats Overview
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Ranjeet-Sahu07&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7" />
+  <table>
+    <tr>
+      <td align="center" style="padding: 20px;">
+        <h3 style="font-size: 2rem; margin: 0;">2+</h3>
+        <p style="margin: 5px 0; font-size: 0.9rem;">Years Experience</p>
+      </td>
+      <td align="center" style="padding: 20px;">
+        <h3 style="font-size: 2rem; margin: 0;">Full Stack</h3>
+        <p style="margin: 5px 0; font-size: 0.9rem;">Development</p>
+      </td>
+      <td align="center" style="padding: 20px;">
+        <h3 style="font-size: 2rem; margin: 0;">Always Learning</h3>
+        <p style="margin: 5px 0; font-size: 0.9rem;">Continuous Growth</p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -147,19 +226,19 @@ const developer = {
 
 ---
 
-## 🔝 Top Contributed Repos
+## 📌 Top Contributed Repos
 
 <div align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=Ranjeet-Sahu07&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true&bg_color=0d1117&title_color=00ffe5&text_color=b8d4e8" />
-</div>
 
+[![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=Ranjeet-Sahu07&limit=6&theme=dark&combine_all_yearly_contributions=true&hide_border=true&bg_color=0d1117&title_color=00ffe5&text_color=b8d4e8&card_width=400px)](https://github.com/Ranjeet-Sahu07)
+
+</div>
+ 
 ---
 
 ## ✍️ Dev Quote of the Day
 
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</div>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
